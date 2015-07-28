@@ -1,2 +1,2 @@
-# thezenfund.github.io
+# zenfund.github.io
 Blog for thezenfund.com
